@@ -13,7 +13,7 @@ I'm a security practitioner who learns by building. From vulnerability managemen
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/callistus-cyber/Threat-Hunting-Scenario)**
 
 ## Network Security
-- **[Network and Log Forensics Investigation:](https://github.com/callistus-cyber/Threat-Hunting-Scenario)**
+- **[Network and Log Forensics Investigation:](https://github.com/callistus-cyber/Network-and-Log-Forensics)**
 <hr/>
 
 ## 🤳 Connect With Me
