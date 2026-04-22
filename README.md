@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/callistus-onwuka/">Callistus Onwuka</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/callistus-onwuka-8710b5282/">Callistus Onwuka</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm a security practitioner who learns by building. From vulnerability management and threat detection to security operations and process improvement, my projects reflect a deliberate effort to translate cybersecurity theory into real, working solutions. Explore the repos to see how I approach problems, sharpen detection capabilities, and harden the systems I touch!
 
