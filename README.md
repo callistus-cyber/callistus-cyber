@@ -3,15 +3,17 @@
 I'm a security practitioner who learns by building. From vulnerability management and threat detection to security operations and process improvement, my projects reflect a deliberate effort to translate cybersecurity theory into real, working solutions. Explore the repos to see how I approach problems, sharpen detection capabilities, and harden the systems I touch!
 
 
-## ⚠️ Vulnerability Management Projects
+## Vulnerability Management Projects
 
 - **[Vulnerability Management Program](https://github.com/callistus-cyber/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/callistus-cyber/Programmatic-Vulnerability-Remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/callistus-cyber/Threat-Hunting-Scenario)**
 
+## Network Security
+- **[Network and Log Forensics Investigation:](https://github.com/callistus-cyber/Threat-Hunting-Scenario)**
 <hr/>
 
 ## 🤳 Connect With Me
