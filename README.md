@@ -6,7 +6,7 @@ I'm a security practitioner who learns by building. From vulnerability managemen
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program](https://github.com/callistus-cyber/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/callistus-cyber/Programmatic-Vulnerability-Remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
