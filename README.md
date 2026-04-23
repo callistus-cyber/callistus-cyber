@@ -9,7 +9,7 @@ I'm a security practitioner who learns by building. From vulnerability managemen
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/callistus-cyber/Programmatic-Vulnerability-Remediations)**
 
 ## IoT Security and PenTest
-- **[IoT Security Inplementation and PenTest](https://github.com/callistus-cyber/Threat-Hunting-Scenario)**
+- **[IoT Security Inplementation and PenTest](https://github.com/callistus-cyber/IoT-Security-Implementation-and-PenTest)**
 
 ## Threat Hunting and Security Operations
 
