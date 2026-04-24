@@ -9,7 +9,7 @@ I'm a security practitioner who learns by building. From vulnerability managemen
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/callistus-cyber/Programmatic-Vulnerability-Remediations)**
 
 ## Secure Cloud Migration & Detection Engineering
-- **[Project Contoso-Azure Secure Coud Migration](https://github.com/callistus-cyber/IoT-Security-Implementation-and-PenTest)**
+- **[Project Contoso-Azure Secure Coud Migration](https://github.com/callistus-cyber/Project-Contoso-Azure-Secure-Cloud-Migration)**
 
 ## IoT Security and PenTest
 - **[IoT Security Inplementation and PenTest](https://github.com/callistus-cyber/IoT-Security-Implementation-and-PenTest)**
